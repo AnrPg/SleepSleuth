@@ -2,7 +2,6 @@
 
 > A comprehensive pipeline for analyzing lifestyle and physiological factors affecting sleep health, using statistical, visual, and machine learning techniques to profile sleep disorders — all inside Google Colab.
 
-![License](https://img.shields.io/github/license/Apostolos-Rigas/sleepsleuth)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Bioinformatics](https://img.shields.io/badge/domain-bioinformatics-green)
 ![Platform](https://img.shields.io/badge/platform-Google_Colab-orange)
