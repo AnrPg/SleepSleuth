@@ -15,10 +15,7 @@
 - [How to Use (Colab)](#-how-to-use-colab)
 - [Input/Output](#-inputoutput)
 - [Example](#-example)
-- [Dependencies](#-dependencies)
-- [Project Structure](#-project-structure)
 - [License](#-license)
-- [Citations](#-citations)
 - [Contact](#-contact)
 
 ---
