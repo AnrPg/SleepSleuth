@@ -85,16 +85,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 📚 Citations
-
-If you use this project or parts of its methodology, please cite the dataset and core references:
-
-- [Sánchez et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256928/)
-- [Chan et al., 2017](https://biology.stackexchange.com/questions/46427/)
-- [Hwang et al., 2020](https://arxiv.org/abs/2008.10758)
-
----
-
 ## 📬 Contact
 
 **Author**: Apostolos-Nikolaos Rigas  
