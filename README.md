@@ -77,6 +77,7 @@ import pandas as pd
 df = pd.read_csv("Sleep_health_and_lifestyle_dataset.csv")
 df_clean = clean_data(df)
 cor_matrix = analyze_correlations(df_clean)
+```
 
 ## 🪪 License
 
